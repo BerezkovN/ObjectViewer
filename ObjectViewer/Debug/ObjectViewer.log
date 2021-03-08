@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(102,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(103,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(104,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(105,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(114,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(135,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(149,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(169,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(170,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(177,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(180,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(181,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Nikita\source\repos\ObjectViewer\ObjectViewer\Source.cpp(191,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ObjectViewer.vcxproj -> C:\Users\Nikita\source\repos\ObjectViewer\Debug\ObjectViewer.exe
